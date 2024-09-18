@@ -41,7 +41,7 @@ const WebDev = () => {
             </a>
             <a
               href="#quote"
-              className="bg-transparent text-base py-3 px-6 border border-white flex items-center justify-center w-48 hover:bg-white hover:text-black transition-colors duration-200"
+              className="bg-transparent text-base py-3 px-6 border border-white flex items-center justify-center w-48 hover:bg-white hover:text-black transition-colors duration-200 whitespace-nowrap"
             >
               REQUEST A QUOTE
             </a>

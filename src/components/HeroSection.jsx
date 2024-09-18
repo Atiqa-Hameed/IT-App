@@ -35,7 +35,7 @@ const HeroSection = () => {
               </a>
               <a
                 href="#quote"
-                className="bg-transparent text-xs sm:text-sm md:text-base lg:text-base py-3 px-4 sm:px-6 border border-white flex items-center justify-center w-48 hover:bg-white hover:text-black transition-colors duration-200"
+                className="bg-transparent text-xs sm:text-sm md:text-base lg:text-base py-3 px-4 sm:px-6 border border-white flex items-center justify-center w-48 hover:bg-white hover:text-black transition-colors duration-200 whitespace-nowrap"
               >
                 REQUEST A QUOTE
               </a>
