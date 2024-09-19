@@ -1,3 +1,6 @@
+
+
+
 import heroImage from "../assets/Rectangle 39.png"; // Ensure the path is correct
 import GitHubSection from "./GitHubSection";
 
