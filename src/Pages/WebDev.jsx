@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../components/Header";
-import hero from "../assets/Rectangle 37.png"; // Ensure the path is correct
+import hero from "/Rectangle 37.png"; // Ensure the path is correct
 import GitHubSection from "../components/GitHubSection";
 import WebdevContent from "./WebdevContent";
 import FaqSection from "./FaqSection";

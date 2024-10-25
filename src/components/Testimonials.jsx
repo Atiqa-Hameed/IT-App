@@ -1,5 +1,5 @@
 import React from "react";
-import testi from "../assets/testi.jpg";
+import testi from "/testi.jpg";
 import { IoStar } from "react-icons/io5";
 import { MdOutlineArrowBackIosNew, MdArrowForwardIos } from "react-icons/md";
 

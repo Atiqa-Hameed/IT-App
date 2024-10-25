@@ -1,8 +1,8 @@
 import React from "react";
-import image4 from "../assets/Rectangle 12.png";
-import image5 from "../assets/Rectangle 13.png";
-import image6 from "../assets/Rectangle 14.png";
-import image7 from "../assets/Rectangle 15.png";
+import image4 from "/Rectangle 12.png";
+import image5 from "/Rectangle 13.png";
+import image6 from "/Rectangle 14.png";
+import image7 from "/Rectangle 15.png";
 import {  FaCogs, FaDollarSign, FaProjectDiagram, FaUsers } from 'react-icons/fa';
 
 const images = [

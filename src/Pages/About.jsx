@@ -1,5 +1,5 @@
 import React from 'react';
-import HeroImage from "../assets/Rectangle1.png"; 
+import HeroImage from "/Rectangle1.png"; 
 import Header from "../components/Header";
 import GitHubSection from '../components/GitHubSection';
 import TextSection from '../components/Text';

@@ -1,8 +1,8 @@
 import React from "react";
-import image from "../assets/img1.png";
-import image1 from "../assets/Rectangle 6.png";
-import image2 from "../assets/Rectangle 7.png";
-import image3 from "../assets/img2.png";
+import image from "/img1.png";
+import image1 from "/Rectangle 6.png";
+import image2 from "/Rectangle 7.png";
+import image3 from "/img2.png";
 
 const AditionalContent = () => {
   return (

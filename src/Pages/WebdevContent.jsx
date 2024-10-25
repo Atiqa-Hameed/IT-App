@@ -1,5 +1,5 @@
 import React from "react";
-import web from "../assets/Rectangle 84.png";
+import web from "/Rectangle 84.png";
 import TextSection from "../components/Text";
 
 const WebdevContent = () => {

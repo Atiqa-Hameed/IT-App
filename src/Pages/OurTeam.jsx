@@ -1,7 +1,7 @@
 import { FaFacebook, FaInstagram, FaLinkedin } from "react-icons/fa";
-import img from "../assets/Rectangle 55.png";
-import ima from "../assets/imb.png";
-import imb from "../assets/ima.png";
+import img from "/Rectangle 55.png";
+import ima from "/imb.png";
+import imb from "/ima.png";
 
 import TextSection from "../components/Text";
 const OurTeam = () => {
