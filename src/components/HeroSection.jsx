@@ -1,6 +1,3 @@
-
-
-
 import heroImage from "../assets/Rectangle 39.png"; // Ensure the path is correct
 import GitHubSection from "./GitHubSection";
 
@@ -14,9 +11,9 @@ const HeroSection = () => {
       />
 
       {/* Header Content */}
-      <div className="relative z-10 flex flex-col items-left justify-center px-4 sm:px-6 md:px-8 lg:px-12 xl:px-24 text-white h-screen font-Dubai sm:mb-20 lg:mb-24 pt-48">
+      <div className="relative z-10 flex flex-col items-center lg:items-start justify-center px-4 sm:px-6 md:px-8 lg:px-12 xl:px-24 text-white h-screen font-Dubai sm:mb-20 lg:mb-24 pt-48">
         {/* Container for Text and Buttons */}
-        <div className="w-full max-w-lg sm:max-w-xl md:max-w-3xl text-center">
+        <div className="w-full max-w-lg sm:max-w-xl md:max-w-3xl text-center lg:text-left">
           {/* Title and Description */}
           <div className="mb-8 sm:mb-10 md:mb-16 lg:mb-24">
             <h1 className="text-2xl sm:text-xl md:text-2xl lg:text-5xl font-extrabold leading-tight mb-16">
@@ -29,7 +26,7 @@ const HeroSection = () => {
               efficiency, enhance security, and foster innovation.
             </p>
 
-            <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-4">
+            <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start space-y-4 sm:space-y-0 sm:space-x-4">
               <a
                 href="#demo"
                 className="bg-primary text-xs sm:text-sm md:text-base lg:text-base py-3 px-4 sm:px-6 border border-transparent flex items-center justify-center w-48 hover:bg-primary-dark transition-colors duration-200"

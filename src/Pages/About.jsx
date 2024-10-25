@@ -28,21 +28,21 @@ const About = () => {
               Lorem ipsum dolor sit amet consectetur. Leo id bibendum aliquam eget.
             </p>
             {/* Action Buttons */}
-            <div className="flex flex-col sm:flex-row items-center sm:items-start justify-center sm:justify-start space-y-6 sm:space-y-0 sm:space-x-4">
-            <a
-              href="#demo"
-              className="bg-primary text-base py-3 px-6 border border-transparent flex items-center justify-center w-48 hover:bg-primary-dark transition-colors duration-200"
-            >
-              BOOK A DEMO
-            </a>
-            <a
-              href="#quote"
-              className="bg-transparent text-base py-3 px-6 border border-white flex items-center justify-center w-48 hover:bg-white hover:text-black transition-colors duration-200 whitespace-nowrap"
-            >
-              REQUEST A QUOTE
-            </a>
-          </div>
-          
+            <div className="flex flex-col items-center sm:flex-row sm:items-start justify-center sm:justify-start space-y-6 sm:space-y-0 sm:space-x-4">
+
+              <a
+                href="#demo"
+                className="bg-primary text-base py-3 px-6 border border-transparent flex items-center justify-center w-48 hover:bg-primary-dark transition-colors duration-200"
+              >
+                BOOK A DEMO
+              </a>
+              <a
+                href="#quote"
+                className="bg-transparent text-base py-3 px-6 border border-white flex items-center justify-center w-48 hover:bg-white hover:text-black transition-colors duration-200 whitespace-nowrap"
+              >
+                REQUEST A QUOTE
+              </a>
+            </div>
           </div>
         </div>
         
@@ -52,7 +52,7 @@ const About = () => {
         <TextSection
           title="Welcome"
           align="center"
-          content="background or why we start a company ...Lorem ipsum dolor sit amet consectetur. Pulvinar scelerisque purus suscipit cursus vestibulum nibh proin neque. Sed neque cursus congue ultrices enim donec in. Diam pretium odio tortor amet amet molestie enim aliquam massa vitae.Lorem ipsum dolor sit amet consectetur. Pulvinar scelerisque purus suscipit cursus vestibulum nibh proin neque. Sed neque cursus congue ultrices enim donec in. Diam pretium odio tortor amet amet molestie enim aliquam massa vitae."
+          content="Background or why we started a company ...Lorem ipsum dolor sit amet consectetur. Pulvinar scelerisque purus suscipit cursus vestibulum nibh proin neque. Sed neque cursus congue ultrices enim donec in. Diam pretium odio tortor amet amet molestie enim aliquam massa vitae. Lorem ipsum dolor sit amet consectetur. Pulvinar scelerisque purus suscipit cursus vestibulum nibh proin neque. Sed neque cursus congue ultrices enim donec in. Diam pretium odio tortor amet amet molestie enim aliquam massa vitae."
         />
         
         <TextSection 
@@ -67,4 +67,3 @@ const About = () => {
 }
 
 export default About;
-
