@@ -11,7 +11,7 @@ const HeroSection = () => {
       />
 
       {/* Header Content */}
-      <div className="relative z-10 flex flex-col items-center lg:items-start justify-center px-4 sm:px-6 md:px-8 lg:px-12 xl:px-24 text-white h-screen font-Dubai sm:mb-20 lg:mb-24 pt-48">
+      <div className="relative z-10 flex flex-col items-center lg:items-start justify-center px-4 sm:px-6 md:px-8 lg:px-12 xl:px-24 text-white h-screen font-Dubai sm:mb-20 lg:mb-24 pt-28">
         {/* Container for Text and Buttons */}
         <div className="w-full max-w-lg sm:max-w-xl md:max-w-3xl text-center lg:text-left">
           {/* Title and Description */}
